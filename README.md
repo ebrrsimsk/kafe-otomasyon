@@ -11,6 +11,9 @@ Görsel Programlama dersi ödevi için NetBeans GUI Builder kullanılarak tasarl
 <img src="https://github.com/user-attachments/assets/112a494d-ce5b-4bcf-bb49-6a499139a4f2" width="550" alt="siparisekrani" />
 ## 📱 Android Studio (Mobil) Arayüz Tasarımı
 
+
+
+
 Aynı projenin Mobil Programlama dersi ödevi için Android Studio üzerinde tasarlanmış mobil garson panel arayüzü. Dosyalar `layout` klasörü içerisindedir.
 
 ### 1. Mobil Masalar Ekranı
