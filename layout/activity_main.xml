@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MELODY KAFE - MOBİL PANEL"
+        android:textAlignment="center"
+        android:textColor="#003366"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <Button
+        android:id="@+id/button8"
+        style="@style/Widget.Material3.Button"
+        android:layout_width="145dp"
+        android:layout_height="123dp"
+        android:backgroundTint="#7CB342"
+        android:text="Masa 1"
+        tools:layout_editor_absoluteX="57dp"
+        tools:layout_editor_absoluteY="109dp" />
+
+    <Button
+        android:id="@+id/button9"
+        style="@style/Widget.Material3.Button"
+        android:layout_width="144dp"
+        android:layout_height="124dp"
+        android:backgroundTint="#D32F2F"
+        android:text="Masa 2"
+        tools:layout_editor_absoluteX="209dp"
+        tools:layout_editor_absoluteY="108dp" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="145dp"
+        android:layout_height="123dp"
+        android:backgroundTint="#7CB342"
+        android:text="Masa 3"
+        tools:layout_editor_absoluteX="57dp"
+        tools:layout_editor_absoluteY="244dp" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="143dp"
+        android:layout_height="123dp"
+        android:backgroundTint="#7CB342"
+        android:text="Masa 4"
+        tools:layout_editor_absoluteX="210dp"
+        tools:layout_editor_absoluteY="244dp" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="143dp"
+        android:layout_height="119dp"
+        android:backgroundTint="#D32F2F"
+        android:text="Masa 5"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="380dp" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="142dp"
+        android:layout_height="120dp"
+        android:backgroundTint="#7CB342"
+        android:text="Masa 6"
+        tools:layout_editor_absoluteX="211dp"
+        tools:layout_editor_absoluteY="380dp" />
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="371dp"
+        android:layout_height="83dp"
+        android:backgroundTint="#003366"
+        android:text="Sipariş Düzenle / Menüye Git ➜"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="618dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
