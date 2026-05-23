@@ -14,7 +14,8 @@ Görsel Programlama dersi ödevi için NetBeans GUI Builder kullanılarak tasarl
 Aynı projenin Mobil Programlama dersi ödevi için Android Studio üzerinde tasarlanmış mobil garson panel arayüzü. Dosyalar `layout` klasörü içerisindedir.
 
 ### 1. Mobil Masalar Ekranı
-<img width="385" height="677" alt="a s anaekran" src="https://github.com/user-attachments/assets/b74fe077-b623-45a2-bebd-c044327f69d2" />
+<img width="376" height="671" alt="image" src="https://github.com/user-attachments/assets/9f3eeab4-527b-42fa-97e8-46dafb1eef0c" />
+
 
 
 ### 2. Mobil Sipariş Giriş Ekranı
